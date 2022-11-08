@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+// https://www.youtube.com/watch?v=AW_rSUpDBRo
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
